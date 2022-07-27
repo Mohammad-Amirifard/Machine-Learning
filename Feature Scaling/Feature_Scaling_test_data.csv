@@ -418,3 +418,4 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 1308,3,"Ware, Mr. Frederick",male,,0,0,359309,8.05,,S
 1309,3,"Peter, Master. Michael J",male,,1,1,2668,22.3583,,C
 
+
